@@ -1,30 +1,16 @@
-# Shortcuts for Android (SFA)  
-为安卓设备打造快捷指令，用语音实现自动化操作！  
+# 煎饺app
+为安卓设备打造快捷指令，用语音实现自动化操作！豆包手机平替  
 
-**Shortcuts for Android**（简称 **SFA**）是一款功能强大的工具，能够在安卓系统中实现类似 iOS 快捷指令的功能。通过语音，轻松解锁更多便捷操作！  
+**煎饺app**是一款功能强大的工具，能够在安卓系统中实现类似 iOS 快捷指令的功能。通过语音，轻松解锁更多便捷操作！  
 
 ---
 
 ## 🚀 快速开始  
-借助 SFA，你可以轻松创建属于自己的快捷指令。以下是几个功能示例：  
+借助 煎饺app，你可以轻松创建属于自己的快捷指令。以下是几个功能示例：  
 
 - **语音自动化操作**：语音执行一套自动化操作流程，例如听歌、播放番剧、导航等。  
 - **语音发送消息**：通过语音向 QQ 的某位联系人发送消息。  
-- **语音完成任务**：语音打车、购物等一气呵成。  
-
----
-
-## 🛠️ 如何创建快捷指令？  
-
-只需 3-4 个简单步骤，即可完成快捷指令的创建：  
-![创建快捷指令步骤](screenshot/1280X1280.PNG)
-
----
-
-## 🎥 教程视频  
-
-想快速上手？跟着视频一步步学习，创建属于你的快捷指令！  
-[教程视频](https://www.bilibili.com/video/BV1KeFcezEE9/?vd_source=531e73dc1ab2aff6ab3074357703fe9e)
+- **语音完成任务**：语音打车、购物等一气呵成。 
 
 ---
 
@@ -38,9 +24,9 @@
 
 ## 📦 安装指南  
 
-1. **下载** Shortcuts for Android 安装包：  
-   - [GitHub Releases](https://github.com/carlliuxx/shortcuts_for_android/releases)  
-   - [蓝奏云下载链接](https://wwsc.lanzouo.com/s/assistant)  
+1. **下载** 煎饺app 安装包：  
+   - [gitee](https://gitee.com/xuewuzhijingdexx/shortcuts_for_android/releases/download/v0.1/jianjiao-v1.0.2-10002-arm64-v8a.apk)
+   - [蓝奏云下载链接](https://wwbqc.lanzouv.com/ibnTP3d03eod)  
 2. 按提示完成安装。  
 3. 开始创造你的快捷指令，解锁全新操作体验！  
 
@@ -80,9 +66,7 @@
 
 如果你有任何问题，或者想分享你的想法和创意，可以加入以下交流平台：  
 
-- 🐧 **QQ群**：789106774  
-<img src="screenshot/qq.jpg" alt="扫码加我 QQ" width="20%">
-
+- 🐧 **QQ群**：1057270805
 ---
 
 期待你的加入，一起让安卓设备变得更加智能高效！🎉  
